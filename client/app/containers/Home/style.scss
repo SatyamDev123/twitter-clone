@@ -1,0 +1,15 @@
+.twitter-clone-home {
+	padding-top: 56px;
+	.login-container {
+		margin-top: 50px;
+		text-align: center;
+		.login-btn {
+			font-size: 18px;
+			background: #1da1f2;
+    	color: white;
+		}
+		.login-btn:hover {
+			background: lighten(#1da1f2 , 10%);
+		}
+	}
+}

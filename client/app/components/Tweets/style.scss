@@ -1,0 +1,28 @@
+.tweets {
+	.tweets-content {
+		max-width: 600px;
+		margin: 0 auto;
+	}
+	.tweets-footer {
+		text-align: center;
+		padding: 30px 0 20px;
+	}
+	.tweets-header {
+		text-align: end;
+		margin-right: 20px;
+		select {
+			background: transparent;
+			width: 50px;
+			padding: 5px;
+			font-size: 16px;
+			border: 1px solid #ccc;
+			height: 34px;
+			-webkit-appearance: none;
+			outline: none;
+			-moz-appearance: none;
+			appearance: none;
+			margin-left: 15px;
+			border-radius: 2px;
+		}
+	}
+}

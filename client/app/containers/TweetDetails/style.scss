@@ -1,0 +1,43 @@
+.tweet-details {
+	padding: 10px;
+	background: white;
+	min-height: 200px;
+	width: 600px;
+	.tweet-details-header {
+		display: flex;
+		align-content: center;
+		justify-content: space-between;
+		padding: 10px 0;
+	}
+	.flex-r-center {
+		> span {
+			margin-right: 5px;
+		}
+	}
+	.tweet-details-content {
+		display: flex;
+	}
+	.svg-icon {
+		width: 30px;
+		height: 30px;
+		cursor: pointer;
+	}
+
+	.svg-icon path,
+	.svg-icon polygon,
+	.svg-icon rect {
+		fill: #4691f6;
+	}
+
+	.svg-icon circle {
+		stroke: #4691f6;
+		stroke-width: 1;
+	}
+}
+
+@media (max-width: 768px) {
+	.tweet-details {
+		width: 90%;
+		padding: 5px;
+	}
+}
