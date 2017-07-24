@@ -1,7 +1,7 @@
 ### Twitter Clone web app build with React(15.x), React Router 4, Webpack(2.x), Node.js, Express.js, Passport.js, MongoDB
 
 ### Demo
-[Twitter Clone Demo](https://www.youtube.com/watch?v=5r3UvmW8TbM)
+[![Twitter Clone Demo]](https://www.youtube.com/watch?v=5r3UvmW8TbM)
 
 ### Install && Build Frontend dependencies
 
