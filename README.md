@@ -8,7 +8,7 @@
 #### NPM Scripts
 * `cd client` - go to client folder
 * `npm install` - install dependencies
-* `npm run build` - build app for deployment
+* `npm run build` - build app
 
 ### Install && Build Server dependencies
 
